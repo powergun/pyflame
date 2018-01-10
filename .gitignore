@@ -19,3 +19,6 @@ configure
 config.h
 stamp-h1
 \.test_env/
+build
+.idea
+cmake-build-debug
